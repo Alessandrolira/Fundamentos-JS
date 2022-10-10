@@ -1,5 +1,5 @@
 const primeiroNumero = 5;
-const segundaNumero = 5;
+const segundaNumero = 10;
 let cadastroAtivado = true;
 
 // console.log(primeiroNumero === segundaNumero);
