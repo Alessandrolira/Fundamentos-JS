@@ -9,3 +9,4 @@ const idadeCliente = 16;
 
             //condicção                   //true    //false
 console.log(idadeCliente >= idadeMinima ? "cerveja":"suco")
+//operadores ternários
