@@ -18,7 +18,7 @@ function imprimeTexto(texto) {
 
 function soma(){
   const resultado = 2 + 2;
-  return resultado
+  return resultado // Precisa ser a ultima linha da função
 }
 
 // console.log(soma());
